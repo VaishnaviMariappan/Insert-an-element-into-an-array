@@ -35,7 +35,7 @@ public class Array {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/gpavithra673/EXP7_Write-a-java-program-to-insert-an-element-into-array/assets/93427264/7baf2d72-5898-4688-a940-e75b0f27a959)
+![image](https://github.com/VaishnaviMariappan/Insert-an-element-into-an-array/assets/94169913/82f3b59b-4f35-4262-9cd5-6baed7ce2967)
 
 ## RESULT:
 Thus a program is created to insert an element into an array.
